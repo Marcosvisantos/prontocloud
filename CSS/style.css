@@ -1,0 +1,17 @@
+html {
+  font-size: 62, 5%;
+}
+
+body {
+  background-color: rgb(224, 219, 219);
+  font-size: 62, 5%;
+}
+
+.main-container {
+  background-color: aliceblue;
+  max-width: 1198px; /*largura maxima*/
+  margin: 0 auto; /*Centralizar os conteúdo nas laterais*/
+  padding: 20px; /*Espaçamento*/
+}
+
+
