@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background-color: rgb(224, 219, 219);
-  font-size: 62, 5%;
+  background-color: rgb(75, 88, 100);
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .main-container {
@@ -15,11 +15,11 @@ body {
 }
 
 header {
-  background: #fff;
+  background: aliceblue;
   display: block;
   float: left;
   padding: 20px;
-  width: 100%;
+  width: 96%;
   border-bottom: 1px solid #254159;
 
 }
@@ -32,7 +32,17 @@ h1 {
 }
 
 h2 {
-  color:blue;
+  color:#254159;
   font-size: 1.5rem;
 
+}
+
+h3 {
+  color:#254159;
+  font-size: 1.5rem;
+}
+
+h4 {
+  color: #254159;
+  font-size: 1.5rem;
 }
